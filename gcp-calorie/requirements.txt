@@ -1,0 +1,11 @@
+# Function dependencies, for example:
+# package>=version
+boto3
+google-cloud-storage
+pandas
+fsspec
+gcsfs
+google-cloud-pubsub
+openpyxl
+beautifulsoup4
+requests
